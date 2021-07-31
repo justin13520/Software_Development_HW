@@ -1,0 +1,13 @@
+Top
+34
+54
+23
+Bottom
+Return 34 when pop() is called
+
+End
+34
+64
+8
+Start
+Return 8 when dequeue() is called

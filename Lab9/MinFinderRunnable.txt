@@ -1,0 +1,66 @@
+Scanning file: Run 2.dms
+Scanning file: Run 4.dms
+Scanning file: Run 1.dms
+Scanning file: Run 3.dms
+Testing 7 from file Run 3.dms
+Testing 3 from file Run 1.dms
+Testing 4 from file Run 4.dms
+Testing 100000 from file Run 2.dms
+Testing 5 from file Run 1.dms
+Testing 5 from file Run 4.dms
+Testing 69 from file Run 2.dms
+Testing 0 from file Run 3.dms
+Testing 889 from file Run 4.dms
+Testing 6 from file Run 1.dms
+Testing 0 from file Run 3.dms
+Testing 7 from file Run 2.dms
+Testing 0 from file Run 3.dms
+Testing 4 from file Run 2.dms
+Testing 4 from file Run 1.dms
+Testing 987 from file Run 4.dms
+Testing 3 from file Run 2.dms
+Testing 7 from file Run 1.dms
+Testing 0 from file Run 3.dms
+Testing 8 from file Run 1.dms
+Testing 89 from file Run 2.dms
+Testing 2 from file Run 4.dms
+Testing 9 from file Run 1.dms
+Testing 962 from file Run 2.dms
+Testing -88 from file Run 4.dms
+Testing 0 from file Run 1.dms
+Testing -2513 from file Run 2.dms
+Testing 0 from file Run 4.dms
+Testing 777 from file Run 2.dms
+Testing 0 from file Run 1.dms
+Testing 5488 from file Run 2.dms
+Testing 9 from file Run 1.dms
+Testing 8 from file Run 1.dms
+Testing 0 from file Run 2.dms
+Testing 123345567 from file Run 4.dms
+Testing 7 from file Run 1.dms
+Testing 6 from file Run 1.dms
+Testing 5 from file Run 1.dms
+Testing 4 from file Run 1.dms
+Testing 3 from file Run 1.dms
+Testing 2 from file Run 1.dms
+Testing 3 from file Run 1.dms
+Testing 4 from file Run 1.dms
+Testing 5 from file Run 1.dms
+Testing 6 from file Run 1.dms
+Testing 7 from file Run 1.dms
+Testing 8 from file Run 1.dms
+Testing 9 from file Run 1.dms
+Testing 0 from file Run 1.dms
+Testing 0 from file Run 1.dms
+Testing 9 from file Run 1.dms
+Testing 8 from file Run 1.dms
+Testing 7 from file Run 1.dms
+Testing 6 from file Run 1.dms
+Testing 5 from file Run 1.dms
+Testing 4 from file Run 1.dms
+Testing 3 from file Run 1.dms
+Testing 2 from file Run 1.dms
+Testing 1 from file Run 1.dms
+Testing -1 from file Run 1.dms
+[-1, -2513, 0, -88]
+Global min value is: -2513.

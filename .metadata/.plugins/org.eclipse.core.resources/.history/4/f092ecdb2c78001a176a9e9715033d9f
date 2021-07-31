@@ -1,0 +1,52 @@
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.IOException;
+import java.util.Scanner;
+
+/**
+   Counts how many words in a file.
+ */
+public class WordCountRunnable implements Runnable{
+    private String filename;
+    private int counter = 0;
+
+    /**
+      Constructs a WordCountRunnable object with a file name.
+      @param aFilename the file name that needs to count words
+     */
+    public WordCountRunnable(String aFilename) {
+        filename = aFilename;
+        counter = 0;
+    }
+
+    public void run() {
+        //add your code here:
+    	Scanner scnr;
+    	try {
+    		scnr = new Scanner(new FileInputStream(filename));
+    		while(scnr.hasNext()) {
+    			Scanner scnr2 = new Scanner(scnr.next());
+    			while(scnr2.hasNext()) {
+    				counter++;
+    			}
+    		}
+    		System.out.println(counter);
+    		Thread.sleep(0);
+    	}
+    	catch(FileNotFoundException f) {
+    		System.out.println("File not found.");
+    	}
+    	catch(InterruptedException e){
+    		
+    	}
+        // hints:
+        // initialize a counter
+        // create Scanner - can use, ... new Scanner(new FileInputStream(filename))
+        // don't forget try-catch	  
+        // while loop 
+        //      count individual words
+        // what are you going to catch??
+        // print statement of the format:  filename: wordCount
+    }
+}
